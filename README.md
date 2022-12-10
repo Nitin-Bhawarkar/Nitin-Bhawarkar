@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NitinBhawarkar
+- 👀 I’m interested in Software development and Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on developing new technologies and projects.
+- 📫 Reach me at nitinrbhawarkar14jan@gmail.com 
