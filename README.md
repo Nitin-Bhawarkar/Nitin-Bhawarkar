@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitin Bhawarkar</h1>
 <h3 align="center">A Passionate for MERN STACK Developer from India</h3>
