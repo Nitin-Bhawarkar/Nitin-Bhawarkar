@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Nitin-Bhawarkar/Nitin-Bhawarkar/blob/main/Github%20Banner.png)
+![MasterHead](https://github.com/Nitin-Bhawarkar/Nitin-Bhawarkar/blob/main/Github%20Bannerss.png)
 
 <h1 align="center">Hi 👋, I'm Nitin Bhawarkar</h1>
 <h3 align="center">A Passionate for MERN STACK Developer from India</h3>
