@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Nitin-Bhawarkar/Nitin-Bhawarkar/blob/main/Github%20Bannerss.png)
 
 <h1 align="center">Hi 👋, I'm Nitin Bhawarkar</h1>
-<h3 align="center">A Passionate for MERN STACK Developer from India</h3>
+<h3 align="center">A Passionate MERN STACK Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
