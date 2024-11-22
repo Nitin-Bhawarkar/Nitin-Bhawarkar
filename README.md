@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Create Online Notes**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Java Full Stack.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitin-Bhawarkar?tab=repositories](https://github.com/Nitin-Bhawarkar?tab=repositories)
 
